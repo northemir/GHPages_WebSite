@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "テスト通信"
+author: 手　酢都
 permalink: /
 ---
 
